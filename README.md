@@ -1,6 +1,6 @@
 # Space Invaders 3D
 
-This is a recreation of the original Space Invaders using OpenGL and GLUT.
+This is a recreation of the original Space Invaders using OpenGL and GLUT developed in and for Windows with VisualStudio.
 
 ![Typical Space Invaders top-down view](images/default_view.PNG)
 
